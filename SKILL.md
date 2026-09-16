@@ -50,6 +50,12 @@ Those three convert bullet lists into prose paragraphs. They are excellent for l
 - Kill hedge stacks: state the answer, then the ONE exception that bites
 - **Numbers beat adjectives:** "47ms" not "very fast", "~86 racks" not "fairly large"
 
+## Enforcement (before sending, not after)
+
+- Reply has 3+ findings OR >12 lines → run `python3 ~/repos/terse-visual-writing/scripts/lint_style.py --stdin` on the draft. Fix reds. Ship.
+- Measuring after the fact and reporting the score is allowed only when the user asks for it.
+- One idea per bullet: 15+ words in a bullet = split it (e.g. "schemas identical · help byte-compared", not both in one line).
+
 ## Exceptions
 
 - Dangerous or irreversible actions → full confirmation detail
