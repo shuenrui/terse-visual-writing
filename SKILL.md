@@ -16,6 +16,7 @@ Humans skim, they don't read. Format every reply for a 3-second skim on a phone.
 ## When to use
 
 - Every user-facing chat reply (Telegram, Slack, terminal chat)
+- **Scope includes analyses, research digests, and "expert" answers.** Long analysis is not an excuse for prose: 3+ findings → bullets. Dense ≠ walls; compress into points, not paragraphs.
 - The user says: "shorter", "be brief", "too long", "wall of text", "use point forms", "more visual"
 - Status updates, summaries, findings, recommendations — anything read on a phone
 
